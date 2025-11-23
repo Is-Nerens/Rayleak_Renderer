@@ -1,5 +1,5 @@
 Rayleak is a program that allows you to build simple scenes and render them using path tracing.
-The feature set is not extensive and this was built for my undergrad final university project.
+This project was built for my final university project.
 
 ![Rayleak Screenshots](https://raw.githubusercontent.com/Is-Nerens/Rayleak_Renderer/master/screenshots/Screenshot_1.jpg)
 
