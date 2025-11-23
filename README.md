@@ -6,6 +6,7 @@ This project was built for my final university project.<br>
 - OBJ model loading
 - Material creation
 - Direction, point and spotlights
+- Rendering settings
 
 ![Rayleak Screenshots](https://raw.githubusercontent.com/Is-Nerens/Rayleak_Renderer/master/screenshots/Screenshot_1.jpg)
 
@@ -14,6 +15,7 @@ This project was built for my final university project.<br>
 - Model files are limited to .obj<br>
 - There is no save / load system<br>
 - Material settings are limited - no complex BRDF models<br>
+- No HDRI / skybox support<br>
 
 
 ### Platform Requirements:
